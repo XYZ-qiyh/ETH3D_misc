@@ -1,5 +1,7 @@
 # ETH3D_misc
-some learning-based methods and evaluation tool for ETH3D high-res Benchmark
+Some learning-based methods and evaluation tool for ETH3D high-res Benchmark.
+
+Compared with the original code repo, we add the dataloader for ETH3D high-res Benchmark.
 
 #### Method
 - [x] Vis-MVSNet  [[original](https://github.com/jzhangbs/Vis-MVSNet)] [[modified](https://github.com/Todd-Qi/Vis-MVSNet)]
