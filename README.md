@@ -1,5 +1,5 @@
 # ETH3D_misc
-some learning-based method and evaluation tool for ETH3D MVS benchmark
+some learning-based methods and evaluation tool for ETH3D MVS benchmark
 
 
 - [x] BMVC2020 Vis-MVSNet
